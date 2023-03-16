@@ -1,16 +1,11 @@
-# vacation_project
+# Newzic App
 
-A new Flutter project.
+A news app speacially designed keeping in mind the modern scenario where youngsters have very less time to read the news.
 
-## Getting Started
+So here is the solution: **Newzic** -  A short news app for youngsters.
 
-This project is a starting point for a Flutter application.
+Feel free to view the code and export the app according to your platform.
 
-A few resources to get you started if this is your first Flutter project:
+Hope that you like it.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
